@@ -14,5 +14,4 @@ if __name__ == "__main__":
     for i in main:
         for j in i:
             if j == "FULL/BDR":
-                print(i[0] + " : This is my neighbour")
-            
+                print(i[0] + " : This is my neighbour")            
