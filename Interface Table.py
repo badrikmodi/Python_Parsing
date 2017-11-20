@@ -19,10 +19,4 @@ if __name__ == "__main__":
 			main.append(list2)
 
 	find = input("Enter the interface for which you want to find ip address: ")
-	ip_address(find)
-
-    
-    
-    
-
-    
+	ip_address(find)       
